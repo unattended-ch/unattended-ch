@@ -2,6 +2,7 @@
 <img src="https://github-stats-alpha.vercel.app/api?username=unattended-ch&cc=000&tc=fff&ic=fff&bc=000" />
 
  | 
+---|---
 Driving fast on three wheels|Driving deliberately on two wheels
 Having fun with my animals|Oldtimers
 Hardware & Software|Photography
