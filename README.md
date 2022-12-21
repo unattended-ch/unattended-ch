@@ -7,7 +7,7 @@ Driving deliberately on two wheels|Driving fast on three wheels
 Having fun with my animals|Oldtimers
 Hardware & Software|Photography
 
-![Sidecar](res/Sidecar.png) ![Suzuki](res/Suzuki.png)
+![Suzuki](res/Suzuki.png) ![Sidecar](res/Sidecar.png)
 ![Magic](res/Magic.png) ![SirIvanhoe](res/SirIvanhoe.png)
 ![Bugatti](res/Bugatti.png) ![Chip](res/Chip.png)
 ![Zoo Basel](res/zoo_basel.png)
