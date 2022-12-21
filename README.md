@@ -3,7 +3,7 @@
 
 Daily|Distraction
 ---|---
-Driving deliberately on two wheels|Driving fast on three wheels on race track
+Driving deliberately on two wheels|Driving fast on three wheels
 Having fun with my animals|Oldtimers
 Hardware & Software|Photography
 
