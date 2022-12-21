@@ -9,7 +9,7 @@ Hardware & Software|Photography
 
 ![Suzuki](res/Suzuki.png) ![Sidecar](res/Sidecar.png)
 ![Magic](res/Magic.png) ![SirIvanhoe](res/SirIvanhoe.png)
-![Bugatti](res/Bugatti.png) ![Chip](res/Chip.png)
+![Chip](res/Chip.png) ![Bugatti](res/Bugatti.png)
 ![Zoo Basel](res/zoo_basel.png)
 
 </div>
