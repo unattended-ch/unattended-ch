@@ -5,4 +5,5 @@
 ![Magic](res/Magic.png) ![SirIvanhoe](res/SirIvanhoe.png)
 ![Bugatti](res/Bugatti.png) ![Chip](res/Chip.png)
 ![Zoo Basel](res/zoo_basel.png)
+
 </div>
